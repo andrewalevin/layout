@@ -14,7 +14,6 @@ markdown
 
 ### Grid
 
-
 <div class="row g-4">
 	<div class="col-12 col-md-6 col-lg-4">
 		
