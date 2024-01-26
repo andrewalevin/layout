@@ -6,13 +6,9 @@
 </style>
 
 
-# markdown
-markdown
+# Grid
 
-[http://andrewalevin.github.io/markdown/](http://andrewalevin.github.io/markdown/)
-
-
-### Grid
+### 3 Columns
 
 <div class="row g-4">
 	<div class="col-12 col-md-6 col-lg-4">
