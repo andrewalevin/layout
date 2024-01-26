@@ -3,5 +3,5 @@
 
 ### Grid
 
-[https://andrewalevin.github.io/layout/grid](https://andrewalevin.github.io/layout/grid)
+[layout/grid](layout/grid)
 
