@@ -6,7 +6,18 @@
 </style>
 
 
+
 # Grid
+
+## Install 
+
+```html
+<style>
+	@import url("/utils/css/bootstrap-grid.css");
+</style>
+```
+
+
 
 ### 3 Columns Demo
 
