@@ -18,6 +18,44 @@
 ```
 
 
+### 3 Columns Template
+
+
+```html
+<div class="row g-4">
+	<div class="col-12 col-md-6 col-lg-4">
+
+		Col-1
+  
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+
+		Col-2
+ 
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+
+  		Col-3
+ 
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+
+  		Col-4
+ 
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+
+  		Col-5
+ 
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
+
+  		Col-6
+	
+	</div>
+</div>
+```
+
 
 ### 3 Columns Demo
 
@@ -59,37 +97,37 @@
 </div>
 
 
-### 3 Columns Template
+### 2 Columns Template
 
 
 ```html
 <div class="row g-4">
-	<div class="col-12 col-md-6 col-lg-4">
+	<div class="col-12 col-md-6">
 
 		Col-1
   
 	</div>
-	<div class="col-12 col-md-6 col-lg-4">
+	<div class="col-12 col-md-6">
 
 		Col-2
  
 	</div>
-	<div class="col-12 col-md-6 col-lg-4">
+	<div class="col-12 col-md-6">
 
   		Col-3
  
 	</div>
-	<div class="col-12 col-md-6 col-lg-4">
+	<div class="col-12 col-md-6">
 
   		Col-4
  
 	</div>
-	<div class="col-12 col-md-6 col-lg-4">
+	<div class="col-12 col-md-6">
 
   		Col-5
  
 	</div>
-	<div class="col-12 col-md-6 col-lg-4">
+	<div class="col-12 col-md-6">
 
   		Col-6
 	
@@ -98,17 +136,16 @@
 ```
 
 
+### 2 Columns Demo
 
-
-### 2 Columns
 <div class="row g-4">
 	<div class="col-12 col-md-6">
 		
 		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TUJmSgViGoM?si=bnU2Pig1iCSsUYWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		# Title
-
-  	</div>
-	<div class="col-12 col-md-6">
+  
+    </div>
+    <div class="col-12 col-md-6">
 
   		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z4e3x6Y1HCY?si=ROldCH_0VvNbNPAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -133,13 +170,10 @@
 
  
     </div>
-    <div class="col-12 col-md-6">
-		
-  		Column
-  
+	<div class="col-12 col-md-6">
+		Column
     </div>
 </div>
-
 
 
 
