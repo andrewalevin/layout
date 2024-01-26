@@ -5,5 +5,5 @@
 
 ### Grid
 
-[layout/grid](layout/grid)
+[grid](grid)
 
