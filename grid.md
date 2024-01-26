@@ -50,38 +50,43 @@
 
 ### 3 Columns Template
 
+
+```html
 <div class="row g-4">
 	<div class="col-12 col-md-6 col-lg-4">
-		
+
 		Col-1
   
-    </div>
-    <div class="col-12 col-md-6 col-lg-4">
+	</div>
+	<div class="col-12 col-md-6 col-lg-4">
 
-  		Col-2
+		Col-2
  
-    </div>
+	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
   		Col-3
  
-    </div>
+	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
   		Col-4
  
-    </div>
+	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
   		Col-5
  
-    </div>
+	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
   		Col-6
 	
-    </div>
+	</div>
 </div>
+```
+
+
 
 
 ### 2 Columns
