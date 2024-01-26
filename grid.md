@@ -122,16 +122,6 @@
   		Col-4
  
 	</div>
-	<div class="col-12 col-md-6">
-
-  		Col-5
- 
-	</div>
-	<div class="col-12 col-md-6">
-
-  		Col-6
-	
-	</div>
 </div>
 ```
 
@@ -163,15 +153,6 @@
   		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/URWa0rbB1Kw?si=o6O1kgJwXaqJs71x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  
-    </div>
-	<div class="col-12 col-md-6">
-
-  		<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H_f70qm5HPE?si=Kv5tK4ITn7PBRflC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- 
-    </div>
-	<div class="col-12 col-md-6">
-		Column
     </div>
 </div>
 
