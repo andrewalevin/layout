@@ -25,32 +25,32 @@
 <div class="row g-4">
 	<div class="col-12 col-md-6 col-lg-4">
 
-		Col-1
+1
   
 	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
-		Col-2
+2
  
 	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
-  		Col-3
+3
  
 	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
-  		Col-4
+4
  
 	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
-  		Col-5
+5
  
 	</div>
 	<div class="col-12 col-md-6 col-lg-4">
 
-  		Col-6
+6
 	
 	</div>
 </div>
