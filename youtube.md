@@ -1,5 +1,5 @@
 <style>
-  @import url("/utils/css/bootstrap-grid.css");
+  @import url("/utils/css/bootstrap.css");
 </style>
 
 <script src="/utils/js/bootstrap.min.js" crossorigin="anonymous"></script>
